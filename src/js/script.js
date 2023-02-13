@@ -15,5 +15,7 @@ document.querySelector("#message").innerHTML +=
   messages[Math.floor(Math.random() * messages.length)];
 
 document.getElementById("nextMessage").addEventListener("click", function () {
-  updateMessage(Math.floor(Math.random() * messages.length));
+  const i = Math.floor(Math.random() * messages.length);
+  updateMessage(i);
+  console.log(i);
 });
