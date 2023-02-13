@@ -15,7 +15,5 @@ https://sb-olr.github.io/my-mixed-messages/
 
 * HTML
 * CSS
-* Bootstrap 5
-* Figma
 * VSCode
-* Live serve extension
+* Live server extension

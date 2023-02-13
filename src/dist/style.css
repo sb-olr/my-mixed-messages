@@ -7,4 +7,23 @@
   width: 100%;
   max-width: 540px;
   margin: 0 auto;
+  padding: 25px 80px;
+}
+#message {
+  font-size: 1.5em;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#nextMessage {
+  font-size: 1.2em;
+  font-weight: 400;
+  padding: 10px;
+  margin: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
 }
