@@ -1,9 +1,9 @@
-# my-todo-app
+# my-mixed-messages
 
-# My ToDo App
+# My mixed messages
 
 # Deployment url:
-https://sb-olr.github.io/my-todo-app/
+https://sb-olr.github.io/my-mixed-messages/
 
 
 # Team
